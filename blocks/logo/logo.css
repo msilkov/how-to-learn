@@ -1,0 +1,9 @@
+.logo {
+  width: 183px;
+  margin: 0;
+  padding: 0;
+  z-index: 3;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
