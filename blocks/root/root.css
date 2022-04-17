@@ -4,4 +4,11 @@
   /* задал обнуление дефолтных отступов */
 }
 
+.hover-transparency{
+  opacity: 1;
+  transition: all .6s;
+}
 
+.hover-transparency:hover{
+  opacity: 0.6;
+}
