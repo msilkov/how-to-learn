@@ -1,9 +1,6 @@
 .video__iframes{
 padding-top: 50px;
 margin: 0 auto -50px;
-max-width: 1050px;
 display: flex;
-align-items: center;
-justify-content: space-between;
-z-index: 3;
+justify-content: flex-start;
 }
